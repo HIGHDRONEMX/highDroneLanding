@@ -1,0 +1,7 @@
+RewriteEngine On
+
+ErrorDocument 400 /highdroneMx/errors/404.php
+ErrorDocument 401 /highdroneMx/errors/404.php
+ErrorDocument 403 /highdroneMx/errors/404.php
+ErrorDocument 404 /highdroneMx/errors/404.php
+ErrorDocument 500 /highdroneMx/errors/404.php
